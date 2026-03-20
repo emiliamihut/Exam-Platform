@@ -1,5 +1,5 @@
 # Platforma de examene – README
-Mihut Maria-Emilia – 321CA
+Mihut Maria-Emilia
 
 ## Descriere
 Aplicatia gestioneaza examene pe baza unor comenzi din fisiere. Retine examene, intrebari si studenti, verifica raspunsuri si genereaza fisiere `.out` (print exam, istoric intrebari, raport, plus un fisier de consola). Nu am folosit tablouri clasice, doar colectii Java. Pentru timp folosesc `LocalDateTime` si un formatter comun `dd-MM-yyyy-HH-mm`.
